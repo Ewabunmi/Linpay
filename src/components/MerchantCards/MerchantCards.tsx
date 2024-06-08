@@ -43,6 +43,7 @@ const MerchantCards = () => {
           <img
             src={Logo2}
             alt="Logo 2"
+            className="hidden sm:block absolute"
             style={{
               position: "absolute",
               top: -200,
@@ -52,7 +53,7 @@ const MerchantCards = () => {
               marginTop: "70px",
             }}
           />
-          {/* Card 3*/}
+          {/* Card 3 */}
           <h3 className="mb-4 text-[20px]  font-Medium">
             Multi-currency Gateway
           </h3>

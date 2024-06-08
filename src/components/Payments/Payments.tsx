@@ -36,7 +36,7 @@ const Payments = () => {
                 Collections
               </p>
               <div
-                className="gap-6 mt-[1rem] py-10 lg:text-[32px] text-[#FFFFFF] font-Light flex items-center"
+                className="gap-6 mt-[1rem] py-10 lg:text-[32px] text-[20px] text-[#FFFFFF] font-Light flex items-center"
                 style={{
                   backgroundImage: `url(${BellBg})`,
                   backgroundRepeat: "no-repeat",
