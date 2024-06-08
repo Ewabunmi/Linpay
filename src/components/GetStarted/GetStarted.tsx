@@ -1,4 +1,3 @@
-"use client";
 import Arrow from "../../assets/images/arrow.svg";
 import GetStartedBg from "../../assets/images/heroBg1.jpg";
 
