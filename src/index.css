@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@font-face {
+  font-family: "GeneralSans-Bold";
+  src: url("../src//assets/fonts/GeneralSans-Bold.otf");
+}
+
+@font-face {
+  font-family: "GeneralSans-BoldItalic";
+  src: url("../src//assets/fonts/GeneralSans-BoldItalic.otf");
+}
+
+@font-face {
+  font-family: "GeneralSans-Extralight";
+  src: url("../src//assets/fonts/GeneralSans-Extralight.otf");
+}
+
+@font-face {
+  font-family: "GeneralSans-Light";
+  src: url("../src//assets/fonts/GeneralSans-Light.otf");
+}
+@font-face {
+  font-family: "GeneralSans-LightItalic";
+  src: url("../src//assets/fonts/GeneralSans-LightItalic.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Medium";
+  src: url("../src//assets/fonts/GeneralSans-Medium.otf");
+}
+
+@font-face {
+  font-family: "GeneralSans-Regular";
+  src: url("../src//assets/fonts/GeneralSans-Regular.otf");
+}
+@font-face {
+  font-family: "GeneralSans-SemiBold";
+  src: url("../src//assets/fonts/GeneralSans-Semibold.otf");
+}
+@font-face {
+  font-family: "GeneralSans-SemiBoldItalic";
+  src: url("../src//assets/fonts/GeneralSans-SemiboldItalic.otf");
+}
