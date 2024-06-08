@@ -16,15 +16,14 @@ const Payments = () => {
       }}
     >
       <div className="bg-[#030119] bg-opacity-120 py-20 -z-20">
-        <h1 className="text-[#FFFFFF] text-center text-[30px] sm:text-[36px] md:text-[40px] lg:text-[56px] font-Medium p-5 mt-10">
+        <h1 className="text-[#FFFFFF] text-center text-[30px] sm:text-[36px] md:text-[40px] lg:text-[56px] px-6 font-Medium mt-10">
           Optimize your Payments.
         </h1>
-        <h1 className="text-[#D8D6E3] text-[16px] lg:text-[20px] text-center px-5 font-Light">
+        <h1 className="text-[#D8D6E3] text-[16px] lg:text-[20px] lg:text-center flex justify-center items-center py-4 px-12 font-Light">
           Experience the excitement Our Zero downtime, multi-currency
           collections, and streamlined <br /> cash flow management product have
-          to offer
+          to offer.
         </h1>
-
         <div className="flex flex-col md:flex-row items-center justify-between px-5 lg:px-[7rem] mb-10 mt-[4rem]">
           <div className="flex flex-col items-start px-5">
             <div className="max-w-[500px]">
